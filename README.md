@@ -1,4 +1,4 @@
-This folder contains code and results for experiments on two classes of instances: **BBLIP** and **BLIPI**. Below is an overview of the files associated with each instance.
+This repository contains code and results for experiments on two classes of instances: **BBLIP** and **BLIPI**. Below is an overview of the files associated with each instance.
 
 
 ---
